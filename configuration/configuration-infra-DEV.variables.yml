@@ -6,7 +6,7 @@
 variables:
 
   # DEV Environment
-  ENVIRONMENT: DEV
+  ENVIRONMENT: mlw-dp100-labs
   RESOURCE_GROUP: rg-dp100-labs
   LOCATION: centralus
   NAMESPACE: mlopsdevtmpl
